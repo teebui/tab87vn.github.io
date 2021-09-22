@@ -21,3 +21,7 @@ http://213.7.193.54:4000/play/a005/index.m3u8
 http://213.7.193.54:4000/play/itv1/index.m3u8
 #EXTINF:-1,rik1
 http://213.7.193.54:4000/play/a001/index.m3u8
+#EXTINF:-1,Bein1
+http://202.150.161.68:4000/play/a001/index.m3u8
+#EXTINF:-1,Bein2
+http://202.150.161.68:4000/play/a002/index.m3u8
