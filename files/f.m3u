@@ -5,3 +5,19 @@ http://116.202.245.40:9191/play/a03p
 http://116.202.245.40:9191/play/a002
 #EXTINF:-1,US063:NBCSN HD
 http://ay82.aatvbox.club:8880/live/xzyc12m3928/vHHqgUEC5R/3105.m3u8
+#EXTINF:-1,5usa
+http://213.7.193.54:4000/play/5usa/index.m3u8
+#EXTINF:-1,bbc1
+http://213.7.193.54:4000/play/bbc1/index.m3u8
+#EXTINF:-1,bein
+http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:-1,channel 3
+http://213.7.193.54:4000/play/a004/index.m3u8
+#EXTINF:-1,channel4
+http://213.7.193.54:4000/play/channel4/index.m3u8
+#EXTINF:-1,cytavision2
+http://213.7.193.54:4000/play/a005/index.m3u8
+#EXTINF:-1,itv1
+http://213.7.193.54:4000/play/itv1/index.m3u8
+#EXTINF:-1,rik1
+http://213.7.193.54:4000/play/a001/index.m3u8
