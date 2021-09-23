@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,(ch 413) BT1
+http://116.202.245.40:9191/play/a03p
+#EXTINF:-1,(ch 414) BT2
+http://116.202.245.40:9191/play/a002
+#EXTINF:-1 tvg-id="NBCSN" group-title="Sports", NBC SPORTS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+#EXTVLCOPT:http-referrer="https://ustvgo.tv"
+https://h1.ustvgo.la/NBCSN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIxIDM6Mjg6MTAgQU0maGFzaF92YWx1ZT1MZlJzb1pVaG15ZUJVQlhPSXZoV1JBPT0mdmFsaWRtaW51dGVzPTI0MA==
