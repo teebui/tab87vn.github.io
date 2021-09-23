@@ -1,0 +1,41 @@
+#EXTM3U 
+#EXTINF:-1,(BE) CANAL C 
+http://hbox.cdnss.me:80/live/bestcs/bestcs/3940.m3u8
+#EXTINF:-1,(BE) Serie
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2952.m3u8 
+#EXTINF:-1,(BE) Bel RTL
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2957.m3u8
+#EXTINF:-1,(BE) RTL TVI HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2958.m3u8
+#EXTINF:-1,(BE) Plug RTL
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2956.m3u8
+#EXTINF:-1,(BE) CLUB RTL HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2014.m3u8
+#EXTINF:-1,(BE) LA UNE HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2012.m3u8
+#EXTINF:-1,(BE) LA DEUX HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2010.m3u8
+#EXTINF:-1,(BE) AB3
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2951.m3u8
+#EXTINF:-1,(BE) La Trois
+http://hbox.cdnss.me:80/live/bestcs/bestcs/2011.m3u8
+#EXTINF:-1,(BE) Bx1 Belge
+http://hbox.cdnss.me:80/live/bestcs/bestcs/3916.m3u8
+#EXTINF:-1,(BE) CANVAS HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5963.m3u8
+#EXTINF:-1,(BE) CAZ
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5957.m3u8
+#EXTINF:-1,(BE) EEN HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5964.m3u8
+#EXTINF:-1,(BE) VIER HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5961.m3u8
+#EXTINF:-1,(BE) VIJF
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5959.m3u8
+#EXTINF:-1,(BE) VITAYA
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5954.m3u8
+#EXTINF:-1,(BE) VTM HD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/5962.m3u8
+#EXTINF:-1,(BE) Ketnet Junior
+http://hbox.cdnss.me:80/live/bestcs/bestcs/6989.m3u8
+#EXTINF:-1,(BE) Voo Sport 1 FHD
+http://hbox.cdnss.me:80/live/bestcs/bestcs/6990.m3u8
