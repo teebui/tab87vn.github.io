@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Bein1
+http://202.150.161.68:4000/play/a001/index.m3u8
+#EXTINF:-1,Bein2
+http://202.150.161.68:4000/play/a002/index.m3u8

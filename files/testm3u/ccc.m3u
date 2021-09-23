@@ -1,0 +1,145 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cosmote.gr.guide.xml,https://iptv-org.github.io/epg/guides/guidatv.sky.it.guide.xml,https://iptv-org.github.io/epg/guides/m.tv.sms.cz.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://iptv-org.github.io/epg/guides/ontvtonight.com.guide.xml,https://iptv-org.github.io/epg/guides/programtv.onet.pl.guide.xml,https://iptv-org.github.io/epg/guides/tvguide.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.ca.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
+﻿#EXTINF:-1,|AR| BEIN SPORT NEWS 4K
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/159
+#EXTINF:-1,bein sport xtra 01 
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/559
+#EXTINF:-1,bein sport xtra 02 
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/560
+#EXTINF:-1,|AR| BEINSPORTS HD 4K
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/160
+#EXTINF:-1,|AR| BEIN SPORT NEWS HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1012
+#EXTINF:-1,|AR| BEINSPORTS HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1013
+#EXTINF:-1,|AR| BEINSPORT 1 PRM LOW
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1014
+#EXTINF:-1,|AR| BEINSPORT 2 PRM LOW
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1015
+#EXTINF:-1,|AR| BEINSPORT 3 PRM LOW
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1016
+#EXTINF:-1,|AR| BEINSPORT LOW 1
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1017
+#EXTINF:-1,|AR| BEINSPORT LOW 2
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1018
+#EXTINF:-1,|AR| BEINSPORT LOW 3
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1019
+#EXTINF:-1,|AR| BEINSPORT LOW 4
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1020
+#EXTINF:-1,|AR| BEINSPORT LOW 5
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1021
+#EXTINF:-1,|AR| BEINSPORT 1 PRM SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1022
+#EXTINF:-1,|AR| BEINSPORT 2 PRM SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1023
+#EXTINF:-1,|AR| BEINSPORT 3 PRM SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1024
+#EXTINF:-1,|AR| BEIN SPORT 1 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1025
+#EXTINF:-1,|AR| BEINSPORT 2 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1026
+#EXTINF:-1,|AR| BEINSPORT 3 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1027
+#EXTINF:-1,|AR| BEINSPORT 4 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1028
+#EXTINF:-1,|AR| BEINSPORT 5 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1029
+#EXTINF:-1,|AR| BEINSPORT 6 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1030
+#EXTINF:-1,|AR| BEINSPORT 7 SD  1M
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1031
+#EXTINF:-1,|AR| |AR| CANAL+ SPORT SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1032
+#EXTINF:-1,|AR| RMC SPORT 1 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1033
+#EXTINF:-1,|AR| RMC SPORT 2 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1034
+#EXTINF:-1,|AR| BEINSPORTS 1 PREMIUM HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1035
+#EXTINF:-1,|AR| BEINSPORTS 2 PREMIUM HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1036
+#EXTINF:-1,|AR| BEINSPORTS 3 PREMIUM HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1037
+#EXTINF:-1,|AR| BEINSPORTS 1 HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1038
+#EXTINF:-1,|AR| BEINSPORTS 2 HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1039
+#EXTINF:-1,|AR| BEINSPORTS 3 HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1040
+#EXTINF:-1,|AR| BEINSPORTS 4 HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1041
+#EXTINF:-1,|AR| BEINSPORTS 5 HD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1042
+#EXTINF:-1,|AR| BeINSPORTS 1 PREMIUM FHD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1048
+#EXTINF:-1,|AR| BeINSPORTS 2 PREMIUM FHD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1049
+#EXTINF:-1,|AR| BeINSPORTS 3 PREMIUM FHD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1050
+#EXTINF:-1,|AR| BeINSPORTS  1 PREMIUM  4K
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1063
+#EXTINF:-1,|AR| BeINSPORTS 2 PREMIUM 4K
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1064
+#EXTINF:-1,|AR| BeINSPORTS 3 PREMIUM 4K
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/1065
+#EXTINF:-1,SSC SPORT 1 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/796
+#EXTINF:-1,SSC SPORT 2 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/797
+#EXTINF:-1,SSC SPORT 3 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/798
+#EXTINF:-1,SSC SPORT 4 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/799
+#EXTINF:-1,SSC SPORT 5 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/800
+#EXTINF:-1,SSC SPORT 6 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/801
+#EXTINF:-1,SSC SPORT 7 SD
+#EXTVLCOPT:http-user-agent=cgUXHFPyP0
+http://blacktvone.net:80/ArDf4hnx3J/CgK7kihuF6/802
